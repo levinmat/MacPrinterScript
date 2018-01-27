@@ -2,7 +2,7 @@
 
 A **very simple** script written to streamline the installation of printers on Mac computers. 
 
-After typing in seven 10-digit IP addresses way too many times as an IT consultant, I decided to find a faster way, thus MacPrinterScript was born. Now, all the printers are configured in one double-click of this AppleScript application.
+After typing in seven 10-digit IP addresses way too many times as an IT consultant, I decided to find a faster way, thus MacPrinterScript was born. Now, all seven printers are configured in one double-click of this AppleScript application.
 
 It is currently configured to use a Generic PostScript driver and allow duplex (double-sided) printing, however is easily adaptable to fit the needs of any organization. 
 
