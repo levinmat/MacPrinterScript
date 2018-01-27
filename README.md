@@ -1,12 +1,9 @@
 # MacPrinterScript
 
-When I first started my IT job, only students with Windows could use our printers, but I quickly found a way to connect from Macs. 
+A **very simple** script written to streamline the installation of printers on Mac computers. 
 
-Unfortunately this involved multiple drop-down menus and typing a 10-digit IP address for each of the 7 printers. 
-One day after typing these IP addresses too many times to count, I decided to automate the process.
+After typing in seven 10-digit IP addresses way too many times as an IT consultant, I decided to find a faster way, thus MacPrinterScript was born. Now, all the printers are configured in one double-click of this AppleScript application.
 
-I learned a bit of AppleScript and now we simply double click the application icon and have all 7 printers configured at once. 
-
-Feel free to adapt this script to fit your organization's needs, it's currently configured as Generic PostScript Duplex (double-sided capable) printers.
+It is currently configured to use a Generic Postscript driver and allow duplex (double-sided) printing, however is easily adaptable to fit the needs of any organization. 
 
 *The IP addresses have been hidden on the GitHub version for obvious reasons.*
